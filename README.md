@@ -1,4 +1,7 @@
 # Admin-Dashboard-Responsive
-<hr/>
-<h3>Preview :</h3>
-<img src="https://github.com/NandhakumarRNK/Admin-Dashboard-Responsive/blob/1008fc52eddedf7a96021979e50a3c44aa4a20ff/screenshot.png" />
+**Collabrate to add new features in this dashboard**
+
+
+![screenshot](https://user-images.githubusercontent.com/121867811/210362645-0ec31604-7235-484a-b9cb-6addd34d0405.png)
+
+
