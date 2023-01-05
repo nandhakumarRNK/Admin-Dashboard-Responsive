@@ -1,4 +1,4 @@
-# Admin-Dashboard-Responsive
+# Responsive-Admin-Dashboard
 **Collabrate to add new features in this dashboard**
 
 
